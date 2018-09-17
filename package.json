@@ -1,0 +1,16 @@
+{
+  "name": "learngraphql",
+  "version": "1.0.0",
+  "description": "Learning graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anil26@github.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2"
+  }
+}
